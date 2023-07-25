@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SalvadoRod
+- 👀 I’m interested in statistics and all its derivatives(data science, data analysis, machine learning, experimentation).
+- 🌱 I have an Applied Math bachelor and am currently working on my thesis dissertation. I currently work as an Experimentation Analyst and I am looking to expand my skills.
+- 💞️ I’m looking to collaborate on any project where I can learn or teach.
+- 📫 You can reach me through email at salvadoor.97@gmail.com
